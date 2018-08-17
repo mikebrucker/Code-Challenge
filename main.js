@@ -40,7 +40,7 @@ function fibonacci() {
         second += first;
         first = second - first;
     }
-    return array;
+    return array.join();
 }
 
 // 4
