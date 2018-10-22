@@ -1,6 +1,4 @@
-# Day-17---Code-Challenge-Workshop-Individual
-Day 17 - Code Challenge Workshop: Individual
-
+# Code-Challenge
 
 Assignment:
 
